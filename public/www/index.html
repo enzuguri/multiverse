@@ -20,6 +20,22 @@
         <script type="text/javascript" src="javascripts/script.js"></script>
         <script type="text/javascript" src="b/headjs/dist/1.0.0/head.load.min.js"></script>
 
+        <script type="text/ng-template" id="whoTemplate">
+          <div class="message announce">
+            <div class="time">{{time}}</div>
+              <p class="name"><strong>Online users:</strong></p>{{allUsers}}
+              <p></p>
+          </div>
+        </script>
+
+        <script type="text/ng-template" id="helpTemplate">
+          <p>Write the following letter and press enter
+          <br />
+          <strong>w</strong> - <strong>who</strong> is here
+          <br><strong>h</strong> - show this <strong>help</strong>screen here
+          <!--<br><strong>c</strong> - <strong>curse</strong> in Italian--> <!--<br><strong>y</strong> - yes - success baby --><br><strong>m</strong> - create a <strong>meme</strong> <!--<br><strong>soundon</strong> - turn  <strong>sound on</strong><br /> <strong>soundoff</strong> - turn <strong>sound off</strong><br />--> <!--<strong>logout</strong> - <strong>log out</strong>--><br /><strong>t username</strong> something - Private message something to username<br /><strong>re </strong> - write "re " - reply to last person who sent you private message<br /><strong>sc</strong> - display all shortcuts
+        </script>
+
 
         <!--<script type="text/javascript" src="phonegap.js"></script>-->
         <script>

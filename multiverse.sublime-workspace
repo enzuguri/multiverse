@@ -1,0 +1,1286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"showMeme"
+			],
+			[
+				"meme",
+				"memeSuggestion"
+			],
+			[
+				"null",
+				"nullMeme"
+			],
+			[
+				"mem",
+				"memeSuggestion"
+			],
+			[
+				"pa",
+				"ActionPanel"
+			],
+			[
+				"_get",
+				"_getValue"
+			],
+			[
+				"targ",
+				"TARGET_REGION"
+			],
+			[
+				"sub",
+				"SUBTITLE_LANGUAGE_PREFERENCE"
+			],
+			[
+				"Dev",
+				"DeviceSettingKeys"
+			],
+			[
+				"fu",
+				"futureToken"
+			],
+			[
+				"fun",
+				"funcName"
+			],
+			[
+				"cal",
+				"calling"
+			],
+			[
+				"Jav",
+				"JavascriptInterface"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"bri",
+				"bridgeRaw"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"inv",
+				"invokeRejected"
+			],
+			[
+				"invoke",
+				"invokeFulfilled"
+			],
+			[
+				"invo",
+				"invokeRejected"
+			],
+			[
+				"in",
+				"invokeReturn"
+			],
+			[
+				"fru",
+				"fruitPromise"
+			],
+			[
+				"tra",
+				"translateItem"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"transalte",
+				"translateItem"
+			],
+			[
+				"star",
+				"startingNodes"
+			],
+			[
+				"fo",
+				"focusIndex"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"transl",
+				"translateX"
+			],
+			[
+				"del",
+				"deltaLimit"
+			],
+			[
+				"la",
+				"lastFrame"
+			],
+			[
+				"Tune",
+				"TunerControl"
+			],
+			[
+				"Tuner",
+				"TunerControlEventListener"
+			],
+			[
+				"tun",
+				"TunerControlStatus"
+			],
+			[
+				"IPN",
+				"IPNetworkListener"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"anim",
+				"animateLeft"
+			],
+			[
+				"ca",
+				"callbackHashObject"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"c",
+				"callbackHashObject"
+			],
+			[
+				"Even",
+				"EventWindowEventListener"
+			],
+			[
+				"ser",
+				"serviceCount"
+			],
+			[
+				"geteve",
+				"getEventIndexAtTime"
+			],
+			[
+				"getEve",
+				"getEventAfterTime"
+			],
+			[
+				"Event",
+				"EventWindow"
+			],
+			[
+				"getE",
+				"getEventWindow"
+			],
+			[
+				"servic",
+				"serviceLocator"
+			],
+			[
+				"getSer",
+				"getServiceLocator"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"prom",
+				"promisePool"
+			],
+			[
+				"lo",
+				"loadSomeDate"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"pr",
+				"promisePool"
+			],
+			[
+				"reo",
+				"resolvePromise"
+			],
+			[
+				"Prom",
+				"PromiseManager"
+			],
+			[
+				"promi",
+				"promise"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"nav",
+				"nav-tabs"
+			],
+			[
+				"Sea",
+				"SEARCH"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"meth",
+				"method_match	(local, instance)"
+			],
+			[
+				"cla",
+				"classes	(local, instance)"
+			],
+			[
+				"cl",
+				"classes	(local, instance)"
+			],
+			[
+				"par",
+				"parse_from_options(options)	(global, function)"
+			],
+			[
+				"str",
+				"string_match	(local, instance)"
+			],
+			[
+				"parse",
+				"parse_from_stream(stream)	(global, function)"
+			],
+			[
+				"row",
+				"rowStr"
+			],
+			[
+				"head",
+				"headerStr"
+			],
+			[
+				"method",
+				"methodList"
+			],
+			[
+				"int",
+				"interfaceProxies"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"inter",
+				"interface"
+			],
+			[
+				"name",
+				"nameLink"
+			],
+			[
+				"na",
+				"namesList"
+			],
+			[
+				"names",
+				"namesList"
+			],
+			[
+				"nam",
+				"namesButton"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"d",
+				"dbusObject"
+			],
+			[
+				"get",
+				"getDbusObject"
+			],
+			[
+				"csv",
+				"csv_filename	(global, instance)"
+			],
+			[
+				"file",
+				"file_path	(global, instance)"
+			],
+			[
+				"conv",
+				"convert_csv_str_to_sql(csv_str)	(global, function)"
+			],
+			[
+				"val",
+				"values	(global, instance)"
+			],
+			[
+				"box",
+				"box_ip"
+			],
+			[
+				"bo",
+				"box_ip"
+			],
+			[
+				"va",
+				"values	(local, instance)"
+			],
+			[
+				"exec",
+				"execute_sql"
+			],
+			[
+				"sql",
+				"sql_filename"
+			],
+			[
+				"value",
+				"value_tmpl_sql	(global, instance)"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"has",
+				"hasNew"
+			],
+			[
+				"dif",
+				"diffButton"
+			],
+			[
+				"ol",
+				"oldFileInput"
+			],
+			[
+				"new",
+				"newFileInput"
+			],
+			[
+				"diff",
+				"diffButton"
+			],
+			[
+				"clas",
+				"class_templ	(global, instance)"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"surface",
+				"surfaceCount"
+			],
+			[
+				"total",
+				"totalBytes"
+			],
+			[
+				"dfb",
+				"dfb_file"
+			],
+			[
+				"skir",
+				"skirmish_file"
+			],
+			[
+				"F",
+				"FileReader"
+			],
+			[
+				"table",
+				"tableData"
+			],
+			[
+				"tab",
+				"tableData"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"old",
+				"oldValue"
+			],
+			[
+				"op",
+				"optSize"
+			],
+			[
+				"di",
+				"diffItem"
+			],
+			[
+				"pho",
+				"photoset_id"
+			],
+			[
+				"sim",
+				"simplexml_load_string"
+			],
+			[
+				"onEx",
+				"onExec"
+			],
+			[
+				"conn",
+				"connectionReady"
+			],
+			[
+				"onE",
+				"onExit"
+			],
+			[
+				"e",
+				"execProxy"
+			],
+			[
+				"non",
+				"nonvoluntary_context_switches"
+			],
+			[
+				"vol",
+				"voluntary_ctxt_switches"
+			],
+			[
+				"line",
+				"lineMap"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"pars",
+				"parserMap"
+			],
+			[
+				"header",
+				"headerNames"
+			],
+			[
+				"Smap",
+				"SmapsParser"
+			],
+			[
+				"sma",
+				"smapsData"
+			],
+			[
+				"smaps",
+				"smapsHeader"
+			],
+			[
+				"lin",
+				"lineMap"
+			],
+			[
+				"Priv",
+				"Private_Dirty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": true,\n			\"path\": \"/Users/afell/Documents/Code/Vendor/multiverse\"\n		}\n	]\n}\n",
+			"file": "/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/controller/multiverse.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "npm-debug.log",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"toggle",
+				"Git: Toggle Annotations"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"as",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"hax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"User: Python PEP8 Autoformat"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/controller/multiverse.sublime-project",
+		"/Users/afell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/core/controller/keys/CanvasButtonCommand.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/test/gallium/testing/CaptureNotificationAnswer.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/business/contentacquisition/ContentAcquisitionFactory.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontextmanager/controller/CreateCommand.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/messaging/MessagingNotifications.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/actionpanellite/model/enums/MoreEpisodesConstants.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/testharness/MainMenuViewStandalone.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/uml/menu/menu_activator.txt",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.CommonTest/src/gallium/testing/events/mockEventListening.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Main.as3proj",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/uml/miniguide/sequence_diagrams/existing_scheduleEvent_delegate_model/MiniGuide_event_data_request_sequence_diagram.txt",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/business/medialibrary/MediaLibraryDelegate.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.EDKAccess/src/gallium/edkaccess/business/media/MediaPlaybackConstants.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/test/gallium/shared/controller/EnableCurrentMediaFullScreenCommandTest.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/epg/view/GridDimensionConstants/FullScreenGridDimensionsConstants.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/components/transition/FullScreenFade.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/.FlexUnitSettings/FlexUnitApplicationLastRun.xml",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.AssetService/examples/FlexUnitApplication.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/.idea/flexCompiler.xml",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/lineartv/controller/system/EnsureLinearRelatedLinksVisibilityCorrectCommand.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/core/rules/EnsureMainMenuHiddenWhenMenulessContextRule.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/core/rules/EnsureLinearRelatedLinksVisibilityCorrectRule.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/myview/controller/EnterSubPagerCommand.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/displaycontext/epg/EpgNotifications.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/.idea/encodings.xml",
+		"/Users/afell/Documents/Code/YouView/UIDEV/html-yv-setup-app/setup_app/web/setup_app.html",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/src/ProductionMetadataBroker.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.API/include/ResultHelpers.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.API/include/Adaptors.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.API/src/Adaptors.cpp",
+		"/Users/afell/Documents/Code/YouView/UIDEV/html-yv-setup-app/diary/content/2014-07-09-AF-AW.rst",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/target/static/static/locale_en-GB.json",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Static/files/static/locale_en-GB.xml",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/lib/mui/mui/util/LocaleMacro.hx",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Static/target/locale_en-GB.json",
+		"/Users/afell/Documents/Code/YouView/tugo-android/local.properties",
+		"/Users/afell/Documents/Code/Vendor/multiverse/public/www/node_modules/grunt-contrib-livereload/docs/livereload-options.md",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Setup/target/setup-configs.xml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cadmium/Cadmium.System.Fake/test/scheduledrecordingstest_events.xml",
+		"/Users/afell/Documents/Code/Vendor/multiverse/public/www/bower.json",
+		"/Users/afell/Documents/Code/YouView/gallium-spikes/AndroidToJS/src/uk/co/youview/webview/ServiceRepository.java",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Static/resources/setup.xsd",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.Setup/setup.iml",
+		"/Users/afell/Documents/Code/YouView/setup-humax/setup-humax.sh",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Build/test/svn/svn-list-elements-test.sh",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Copper/Copper.LsrAccessControl.Production/src/ProductionSettings.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Copper/Copper.LsrAccessControl.Production/src/ProductionFactory.cpp",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/project.json",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Neon/Neon.Client.API/include/PingResult.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Common/include/ActionProcessor.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Common/include/Action.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Build/test/tools/abiChecker/abi-checker-test.sh",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Arsenic/Arsenic.Common/arsenic-common.pc.in",
+		"/Users/afell/Documents/Code/YouView/stb-tester/Makefile",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Nickel/Nickel.AudioFeedback/Makefile-API.am",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Build/make-shell.sh",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.3rdPartyStack/patches/gst_plugins_bad-1.2.0/0016-make-seek-range-avoid-the-last-two-fragments-in-the-.patch",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium.EDKFakes/Gallium.EDKFakes.iml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.AIR.CTV.Tests/performance-test/as/EdkStartupPerformance_Import.as",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.AIR.CTV.Tests/performance-test/as/EdkStartupPerformance_ImportAndCall.as",
+		"/Users/afell/Documents/Code/YouView/Gallium.Main/Krypton.Toolkit/examples/TweenByTimeMultipleTargetExample/src/TweenByTimeMultipleTargetExample.as",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/externs/fakes.js",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Iron/Iron.System.API/data/introspection-xml/struct-Event.xml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.API/data/introspection-xml/struct-UnifiedEventData.xml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Neon/Neon.Client.System/src/queryNetworkManager.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Nickel/NickelTuner.System.Production/src/TunerControlImpl.cpp",
+		"/Users/afell/Documents/Code/enzuguri/infinite-menu/index.html",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Zinc/Zinc.Build/test/list-buildable-projects-test-ws-nested/Copper/Copper.JsCore.Client.API/configure.ac",
+		"/Users/afell/Documents/Code/YouView/android/TestJavaScriptBindings/TestJavaScriptBindings/src/main/java/uk/co/youview/webview/DeviceSettingsAPI.java",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/target/externs/target/index.html",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/lib.json",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/bin/release/web/resource/config.json",
+		"/Users/afell/Documents/Code/YouView/logs/serial/miniguide/helper_app_bug.txt",
+		"/Users/afell/Documents/Code/YouView/logs/serial/miniguide/helper_app_none.txt",
+		"/Users/afell/Documents/Code/YouView/Docker/DockerFile",
+		"/Users/afell/Documents/Code/YouView/Docker/google-python/index.html",
+		"/Users/afell/Documents/Code/YouView/Docker/google_python/index.html",
+		"/Users/afell/Documents/Code/YouView/logs/serial/miniguide/helper_app_yes.txt",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/metadata/SystemClientEvent.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cadmium/Cadmium.System.Minimal/src/MinimalLinearAcquisitionSync.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/src/tools/yv-metadata-cache.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Iron/Iron.System.DBusClient/Makefile.am",
+		"/usr/lib/haxe/lib/mpm/git/src/mpm/Workflow.hx",
+		"/Users/afell/libexec/stbt/stbt-run",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Neon/Neon.Client.API/include/InterfaceConfig.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/scripts/cobalt-system-production/system_client_templates.py",
+		"/Users/afell/Documents/Code/Vendor/venn.js/examples/simple.html",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/build/Build.hx",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/externs/oem/IntegrationTest.hx",
+		"/Users/afell/Documents/Code/YouView/youview-tugo/externs/android-shim.js",
+		"/Users/afell/Documents/Code/YouView/android/TestJavaScriptBindings/TestJavaScriptBindings/src/main/java/uk/co/youview/webview/TuningControlAPI.java",
+		"/Users/afell/Documents/Code/YouView/gallium-spikes/AndroidToJS/assets/android-shim.js",
+		"/Users/afell/Documents/Code/YouView/gallium-spikes/AndroidToJS/src/com/example/youview/webappinterface/FruitExampleInterface.java",
+		"/Users/afell/Documents/Code/YouView/gallium-spikes/AndroidToJS/assets/index.html",
+		"/Users/afell/Documents/Code/YouView/Sony/SonyEPG/lint.xml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Titanium/Titanium.System.Launcher/src/LauncherImpl.cpp",
+		"/Users/afell/Documents/Code/Vendor/slick-master/LICENSE",
+		"/Users/afell/Documents/Code/YouView/logs/mem/h18.3.0.txt",
+		"/Users/afell/Documents/Code/YouView/logs/chrome/animate-left.json",
+		"/Users/afell/Documents/Code/enzuguri/infinite-menu/js/boundarizer.min.js",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/build.xml",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/js/networkapi.js",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/js/tuningapi.js",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/js/dttapi.js",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/out/classes/NetworkStatus.html",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/Locator.hx",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/NetworkStatus.hx",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/IPNetworkListener.hx",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/IPNetwork.hx",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/TunerControl.hx",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Nickel/NickelTuner.System.API/data/introspection-xml/struct-TunerControlStatus.xml",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/linear-metadata/SystemClientEvent.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/metadata/PresentEventsCache.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.API/include/metadata/Event.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/metadata/SystemClientEvent.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/metadata/ExtraEventInfoFacade.cpp",
+		"/Users/afell/Documents/Code/enzuguri/AndroidPromises/index.html",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/tuner/SystemClientTunerControl.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/scripts/cobalt-system-production/broker.py",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Nickel/NickelTuner.System.Production/src/Factory.cpp",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/data/mas-data/misc/get_events_2_specific_events.xml",
+		"/Users/afell/Documents/Code/YouView/scripts/androidglobals.html",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Uranium/Uranium.Client.System/src/tuner/SystemClientTunerControl.h",
+		"/Users/afell/Documents/Code/YouView/DEVARCH/Nickel/NickelTuner.System.Production/include/Factory.h",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/externs/Event.hx",
+		"/Users/afell/Documents/Code/YouView/Massive/api-externs/js/Event.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/afell/Documents/Code/Vendor/multiverse/public/www/javascripts",
+			"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production/scripts",
+			"/Users/afell/Documents/Code/YouView/DEVARCH/Cobalt/Cobalt.System.Production",
+			"/Users/afell/Documents/Code/YouView/DEVARCH",
+			"/Users/afell/Documents/Code/beforethegoldrush/wp-content/themes",
+			"/Users/afell/Documents/Code/Vendor/PureMVC-puremvc-as3-multicore-framework/src",
+			"/Users/afell/Sites/wp-content/themes/Retro",
+			"/Users/afell/Sites/wp-content/themes",
+			"/Users/afell/Sites",
+			"/Users/afell/Documents/Code/YouView/portal-analysis-tools",
+			"/Users/afell/Documents/Code/YouView/DEVARCH"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"change",
+			"acceptPin",
+			"states",
+			"head",
+			"the-basics",
+			"analyzeEntry",
+			"language",
+			"selected_region",
+			"_get_location_param",
+			"selected",
+			"selected_region",
+			"location",
+			"get_search_suggestions",
+			"getSearchSuggestions",
+			"makeSimpleScheduler",
+			"getCategories",
+			"launch",
+			"isPresent",
+			"guidanceCodes",
+			"signing",
+			"subtitles",
+			"audioDescription",
+			"audio",
+			"aspectRatio",
+			"videoFormat",
+			"guidanceText",
+			"seriesCrids",
+			"recommendatonCrid",
+			"splitInstanceIdentifier",
+			"programmeCrid",
+			"classifier",
+			"longSynopsis",
+			"mediumSynopsis",
+			"TARGET_REGION",
+			"SUBTITLES_ENABLED",
+			"AUDIO_DESCRIPTION_ENABLED",
+			"AUDIO_DESCRIPTION_LANGUAGE_PREFERENCE",
+			"SUBTITLE_LANGUAGE_PREFERENCE",
+			"SHORT_NAME",
+			"RCN",
+			"SERVICE_NAME",
+			"SERVICE_LOCATOR",
+			"SERVICE_CONTENT_TYPE",
+			"PROVIDER_NAME",
+			"SERVICE_ID",
+			"RCN",
+			"externalReference",
+			"alternativeEventLocator",
+			"position",
+			"length",
+			"old and new",
+			"rect",
+			"version",
+			"simulcast",
+			"createIP4Config",
+			"getAlternativeEventLocator",
+			"getRecordIdentifier",
+			"is process",
+			"[object LinearPlaybackService].DrmEvent",
+			"ACTIVATE ---",
+			"[object LinearPlaybackService].DrmEvent",
+			"ACTIVATE ---",
+			"activate",
+			"[object LinearPlaybackService].DrmEvent",
+			"triggerCommand Enable on display context MESSAGING",
+			"[object LinearPlaybackService].DrmEvent",
+			"changeLinearState",
+			"stripTransportStreamIdentifier",
+			"eventLocator = ",
+			"DBUS_SESSION",
+			"linearmetadata-export",
+			"lookingForService",
+			"CURRENT TUNING STATE",
+			"eventLocator",
+			"eventLocators",
+			"serviceLocators",
+			"\\t",
+			"paint",
+			"TunerControlState::",
+			"status",
+			"getState",
+			"TunerControlStatus",
+			"ClientEvent",
+			"linearmetadata",
+			"identifier",
+			"event Type",
+			"type",
+			"isPresent",
+			"_get_pagination",
+			"scheduleevents",
+			"EventWindow",
+			"xmlns",
+			"createTunerControlImpl",
+			"TunerControl",
+			"mapHelperFailureToHelperErrorReason",
+			"error",
+			"adult",
+			"drmevent",
+			"drm",
+			"iframe",
+			"soundcloud_flash_widget",
+			"current",
+			"Unified",
+			"beforeC",
+			"currentCss",
+			"width",
+			"Error",
+			"error",
+			"IPC",
+			"UsageCollection",
+			"tool",
+			"body_quote",
+			"quote",
+			"content_links",
+			"portfolio_listing",
+			"portfolio_listing_items",
+			"youtube_links",
+			"method",
+			"constructor",
+			"<q>[public]",
+			"[public]",
+			"parser",
+			"pushstring",
+			"slot",
+			"pushstring \"",
+			":String",
+			"Observer",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" | ",
+			"\\t",
+			"",
+			"\\t",
+			" | ",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"$1\\t",
+			" ",
+			"\\t",
+			"$1\\t$2",
+			"Number",
+			"\"$1\":[int, \"$1\"],",
+			"$1\\t$2",
+			"$1\\t",
+			"|"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/afell/Documents/Code/YouView/Gallium.Main/Gallium/src/gallium/shared/controller/multiverse.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "npm-debug.log",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/afell/Documents/Code/Vendor/multiverse",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "multiverse.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"canvas",
+				"src/gallium/core/controller/keys/CanvasButtonCommand.as"
+			],
+			[
+				"menuser",
+				"src/gallium/shared/mainmenu/service/MenuService.as"
+			],
+			[
+				"fullscreenmed",
+				"Gallium/test/gallium/shared/controller/EnableCurrentMediaFullScreenCommandTest.as"
+			],
+			[
+				"locale",
+				"Gallium.Main/Gallium.Static/files/static/locale_en-GB.xml"
+			],
+			[
+				"setup",
+				"Gallium.Main/Gallium.Static/files/static/setup.xml"
+			],
+			[
+				"setup.xml",
+				"Gallium.Main/Gallium.Static/files/static/setup.xml"
+			],
+			[
+				"productionsyste",
+				"DEVARCH/Cobalt/Cobalt.System.Production/src/ProductionSystemFactory.h"
+			],
+			[
+				"actionproc",
+				"DEVARCH/Zinc/Zinc.Common/include/ActionProcessor.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"enablecurrentmed",
+				"EnableCurrentMediaFullScreenCommand"
+			]
+		],
+		"width": 873.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
